@@ -24,7 +24,7 @@ To run this project, you'll need the following Python dependencies:
 
 ## Dataset
 
-The dataset used in this project consists of time series data for 7000 NYSE stocks. Each data point includes the date, stock identifier, and closing price. The dataset is available in the `data/` directory.
+The dataset used in this project consists of time series data for 7000 NYSE stocks. Each data point includes the date, open, high, low, volume and closing price. The dataset is available in kaggle. https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs. Technical analysis indicators were added manually and using libraries
 
 ## Models Evaluated
 
